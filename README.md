@@ -1,56 +1,111 @@
-<a href="https://twitter.com/juancam_dev">
-  <img align="left" alt="Camilo Farfan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+<!-- =======================
+     JUANCADEV / PROFILE
+     Paleta: Azul #007FFF | Naranja #FFA500
+======================= -->
 
-<a href="https://www.linkedin.com/in/juanca-dev/">
-  <img align="left" alt="Juan Camilo Farfan Juanias | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<div align="center">
 
-<a href="https://www.instagram.com/juancadev/">
-  <img align="left" alt="Camilo Farfan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<!-- Banner opcional (puedes reemplazar por una imagen tuya) -->
+<!-- <img src="https://.../banner.png" alt="Juancadev banner" /> -->
 
-<a href="https://www.youtube.com/channel/UCxCN-sqVFLgcTUuQUr_iFWw">
-  <img align="left" alt="Sistemas Contables - Juan Farfan | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
+<h1>👋 ¡Hola! Soy Juan Camilo — <span style="color:#007FFF;">Juancadev</span> <span style="color:#FFA500;">⚡</span></h1>
 
-![](https://visitor-badge.glitch.me/badge?page_id=juancam-dev.juancam-dev)
-
-<h1 align="center">Hi 👋, I'm Juan Camilo Farfan</h1>
-<h3 align="center">Software Developer | Backend | NodeJS | Python </h3>
-
-<p>I have worked in various companies in some doing accounting work and in others not, in which I have acquired various skills and competences where I have been able to generate and learn tools that facilitate accounting work.
-Currently I work in the Accounting / Payroll area of a logistics and transportation organization located in Colombia, I love Education :books: and Technology :computer:, therefore I have decided to mix my profession with the hobbies and skills that I have acquired to teach others what I would have liked to know when it starts. </p>
-
-- 👨‍💻 All of my projects are available at [juancamilofarfan.com](https://juancamilofarfan.com)
-
-- 💬 Ask me about **React, Nest JS, FastApi, Angular**
-
-- 📫 How to reach me **jcamilofarfan@contador.tech**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- <a href="https://codepen.io/jcamilofarfan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jcamilofarfan" height="30" width="40" />
-  </a> -->
-  <a href="https://twitter.com/juancam-dev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jcamilofarfan" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/juanca-dev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jcamilofarfan" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/juancadev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jcamilofarfan" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/juancadev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jcamilofarfan" height="30" width="40" />
-  </a>
-  <!-- <a href="https://www.youtube.com/c/juancadev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jcamilofarfan" height="30" width="40" />
-  </a> -->
+<p>
+  <b>Full-Stack</b> · <b>Automatización & Arquitectura Modular</b> · <b>Godot 4.x</b> · <b>Contenido Técnico</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sapper.svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/sapper.svg" alt="sapper" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<!-- Typing SVG (reemplaza TU_USUARIO si quieres) -->
+<a href="https://github.com/jcamilofarfan">
+  <img src="https://readme-typing-svg.demolab.com?font=Lato&size=18&duration=2500&pause=700&color=007FFF&center=true&vCenter=true&width=650&lines=Construyo+software+modular+como+Lego+%F0%9F%A7%B1;Automatizo+pipelines%2C+CI%2FCD+e+IaC+%F0%9F%9A%80;Aprendo+en+p%C3%BAblico%3A+Web+%2B+Godot+%2B+Cloud+%F0%9F%8C%A9%EF%B8%8F;De+ideas+a+productos%3A+SliceSoft+%F0%9F%93%A6" alt="Typing SVG" />
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juancam-dev&layout=compact)
+<br/>
+
+<!-- Badges principales -->
+<a href="https://youtube.com/@juanca-dev">
+  <img alt="YouTube" src="https://img.shields.io/badge/YouTube-Juancadev-FF0000?logo=youtube&logoColor=white" />
+</a>
+<a href="https://juancamilofarfan.com/">
+  <img alt="Blog" src="https://img.shields.io/badge/Blog-Juancadev-007FFF?logo=docs&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/juancadev-io/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Juan%20Camilo-0A66C2?logo=linkedin&logoColor=white" />
+</a>
+<!-- <a href="mailto:TU_EMAIL">
+  <img alt="Email" src="https://img.shields.io/badge/Email-Contactar-FFA500?logo=gmail&logoColor=white" />
+</a> -->
+
+</div>
+
+---
+
+## 🧠 Sobre mí
+Soy desarrollador **Full-Stack** y creador de contenido(En proceso). Me gusta construir soluciones **modulares, escalables y automatizadas**, y enseñar lo que aprendo con ejemplos prácticos.
+
+- ⚙️ **Foco:** arquitectura modular, microservicios/microfrontends, CI/CD, IaC, cloud.
+- 🎮 **Godot 4.x:** patrones de diseño, sistemas reutilizables, gameplay 2D/3D.
+- 🎥 **Contenido:** tutoriales y laboratorios en vivo (web + cloud + Godot).
+
+---
+
+## 🧩 Ahora construyendo (mis “Lego sets”)
+- 🧱 **SliceSoft**: fábrica de software modular (componentes reutilizables + automatización end-to-end).
+- 🕹️ **Prototipos en Godot**: patrones (Singleton, Observer, Factory…), UI, sistemas de juego.
+- 📦 **Tooling & Platform**: pipelines, plantillas de repos, análisis automático de proyectos, observabilidad.
+
+> Si quieres ver en qué voy: revisa mis repos destacados 👇
+
+---
+
+## 🧰 Stack favorito
+**Backend:** Go · Node.js · Python (FastAPI)  
+**Frontend:** React · TailwindCSS · Astro  
+**Cloud/DevOps:** AWS · Terraform · Docker · Kubernetes · CI/CD  
+**Mensajería:** RabbitMQ  
+**Game Dev:** Godot 4.x · GDScript
+
+<p>
+  <img src="https://img.shields.io/badge/Go-007FFF?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind-38BDF8?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white" />
+</p>
+
+---
+
+## 📌 Repos recomendados (Proximamente)
+
+
+---
+
+
+## 🤝 ¿Hablamos?
+- 💼 LinkedIn: https://www.linkedin.com/in/jcamilofarfan/
+- 🧠 Blog: [juancamilofarfan.com ](https://juancamilofarfan.com/) 
+- 🎥 YouTube: https://youtube.com/@juanca-dev  
+- ✉️ Email: TU_EMAIL  
+
+---
+
+## ☕ Apóyame
+Si te sirve mi contenido y quieres apoyar el proyecto:
+- ⭐ Dale star a los repos que uses
+- 🧡 Comparte los videos / posts
+
+---
+
+<div align="center">
+  <sub>
+    Hecho con <span style="color:#FFA500;">amor</span> por <span style="color:#007FFF;">juancadev</span> ❤️
+    <!-- <br/>🟦 #007FFF · 🟧 #FFA500 -->
+  </sub>
+</div>
