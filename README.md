@@ -15,23 +15,21 @@
 </p>
 
 <!-- Typing SVG (reemplaza TU_USUARIO si quieres) -->
-<a href="https://github.com/jcamilofarfan">
-  <img src="https://readme-typing-svg.demolab.com?font=Lato&size=18&duration=2500&pause=700&color=007FFF&center=true&vCenter=true&width=650&lines=Construyo+software+modular+como+Lego+%F0%9F%A7%B1;Automatizo+pipelines%2C+CI%2FCD+e+IaC+%F0%9F%9A%80;Aprendo+en+p%C3%BAblico%3A+Web+%2B+Godot+%2B+Cloud+%F0%9F%8C%A9%EF%B8%8F;De+ideas+a+productos%3A+SliceSoft+%F0%9F%93%A6" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Lato&size=18&duration=2500&pause=700&color=007FFF&center=true&vCenter=true&width=650&lines=Construyo+software+modular+como+Lego+%F0%9F%A7%B1;Automatizo+pipelines%2C+CI%2FCD+e+IaC+%F0%9F%9A%80;Aprendo+en+p%C3%BAblico%3A+Web+%2B+Godot+%2B+Cloud+%F0%9F%8C%A9%EF%B8%8F;De+ideas+a+productos%3A+SliceSoft+%F0%9F%93%A6" alt="Typing SVG" />
 
 <br/>
 
 <!-- Badges principales -->
-<a href="https://youtube.com/@juanca-dev">
+<a href="https://youtube.com/@juanca-dev" _target="_blank">
   <img alt="YouTube" src="https://img.shields.io/badge/YouTube-Juancadev-FF0000?logo=youtube&logoColor=white" />
 </a>
-<a href="https://juancamilofarfan.com/">
+<a href="https://juancamilofarfan.com/" _target="_blank">
   <img alt="Blog" src="https://img.shields.io/badge/Blog-Juancadev-007FFF?logo=docs&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/juancadev-io/">
+<a href="https://www.linkedin.com/in/juancadev-io/" _target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Juan%20Camilo-0A66C2?logo=linkedin&logoColor=white" />
 </a>
-<!-- <a href="mailto:TU_EMAIL">
+<!-- <a href="mailto:TU_EMAIL" _target="_blank">
   <img alt="Email" src="https://img.shields.io/badge/Email-Contactar-FFA500?logo=gmail&logoColor=white" />
 </a> -->
 
@@ -89,10 +87,10 @@ Soy desarrollador **Full-Stack** y creador de contenido(En proceso). Me gusta co
 
 
 ## 🤝 ¿Hablamos?
-- 💼 LinkedIn: https://www.linkedin.com/in/jcamilofarfan/
+- 💼 LinkedIn: https://www.linkedin.com/in/juancadev-io/
 - 🧠 Blog: [juancamilofarfan.com ](https://juancamilofarfan.com/) 
 - 🎥 YouTube: https://youtube.com/@juanca-dev  
-- ✉️ Email: TU_EMAIL  
+<!-- - ✉️ Email: TU_EMAIL   -->
 
 ---
 
