@@ -20,13 +20,13 @@
 <br/>
 
 <!-- Badges principales -->
-<a href="https://youtube.com/@juanca-dev" _target="_blank">
+<a href="https://youtube.com/@juanca-dev" target="_blank">
   <img alt="YouTube" src="https://img.shields.io/badge/YouTube-Juancadev-FF0000?logo=youtube&logoColor=white" />
 </a>
-<a href="https://juancamilofarfan.com/" _target="_blank">
+<a href="https://juancamilofarfan.com/" target="_blank">
   <img alt="Blog" src="https://img.shields.io/badge/Blog-Juancadev-007FFF?logo=docs&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/juancadev-io/" _target="_blank">
+<a href="https://www.linkedin.com/in/juancadev-io/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Juan%20Camilo-0A66C2?logo=linkedin&logoColor=white" />
 </a>
 <!-- <a href="mailto:TU_EMAIL" _target="_blank">
