@@ -80,8 +80,14 @@ Soy desarrollador **Full-Stack** y creador de contenido(En proceso). Me gusta co
 
 ---
 
-## 📌 Repos recomendados (Proximamente)
+<!-- PROD-REPOS:START -->
+<!-- This section is auto-generated every Monday. Do not edit manually. -->
 
+## 🚀 Proyectos en producción
+
+| Repositorio | Producción | Descripción |
+| --- | --- | --- |
+<!-- PROD-REPOS:END -->
 
 ---
 
