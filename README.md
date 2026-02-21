@@ -87,6 +87,9 @@ Soy desarrollador **Full-Stack** y creador de contenido(En proceso). Me gusta co
 
 | Repositorio | Producción | Descripción |
 | --- | --- | --- |
+| [jcd-portfolio-blog](https://github.com/juancadev-io/jcd-portfolio-blog) | [🔗 https://juancamilofarfan.com/](https://juancamilofarfan.com/) | Blog post juancadev-io |
+| [jcd-signature-svelte-web](https://github.com/juancadev-io/jcd-signature-svelte-web) | [🔗 https://signature.juancamilofarfan.com/](https://signature.juancamilofarfan.com/) | Create professional email signatures for free. Export HTML for Gmail and PNG for mobile clients. |
+
 <!-- PROD-REPOS:END -->
 
 ---
