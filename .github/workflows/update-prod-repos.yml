@@ -1,0 +1,41 @@
+name: Update Production Repos in README
+
+on:
+  schedule:
+    # Every Monday at 08:00 UTC
+    - cron: "0 8 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-prod-repos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run update script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: juancadev-io
+          README_PATH: README.md
+        run: python3 .github/scripts/update_prod_repos.py
+
+      - name: Commit and push changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "No changes detected. Skipping commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore(readme): auto-update production repos section [skip ci]"
+          git push
