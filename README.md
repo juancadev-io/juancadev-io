@@ -87,6 +87,7 @@ Soy desarrollador **Full-Stack** y creador de contenido(En proceso). Me gusta co
 
 | Repositorio | Producción | Descripción |
 | --- | --- | --- |
+| [jcd-agro-smart-landing](https://github.com/juancadev-io/jcd-agro-smart-landing) | [🔗 https://agrosmart.juancamilofarfan.com](https://agrosmart.juancamilofarfan.com) |  |
 | [jcd-portfolio-blog](https://github.com/juancadev-io/jcd-portfolio-blog) | [🔗 https://juancamilofarfan.com/](https://juancamilofarfan.com/) | Blog post juancadev-io |
 | [jcd-signature-svelte-web](https://github.com/juancadev-io/jcd-signature-svelte-web) | [🔗 https://signature.juancamilofarfan.com/](https://signature.juancamilofarfan.com/) | Create professional email signatures for free. Export HTML for Gmail and PNG for mobile clients. |
 
